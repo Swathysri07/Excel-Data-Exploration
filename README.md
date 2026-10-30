@@ -1,4 +1,4 @@
-# Excel Assignment 1 – Data Exploration and Analysis
+# Data Exploration and Analysis
 
 ## 1. Project Overview
 
